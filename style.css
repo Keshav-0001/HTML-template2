@@ -1,0 +1,114 @@
+/* top section */
+
+body{
+
+background-color: #d3dbde;
+
+}
+
+
+.top-row1{
+
+margin-left: 100px;
+
+}
+
+body{
+    margin: 0px;
+    padding:0px;
+}
+.top-section {
+
+    width:100%;
+    float: left;
+    background:#fff;
+
+}
+
+
+.top-section p {
+    margin: 0px;
+    padding: 10px;
+    color: #000;
+
+}                 
+
+.banner{
+    width: 100%;
+    float:left;
+    
+}
+.banner img{
+    width: 100%;
+    float:left;
+}
+
+.product-section{
+    width: 100%;
+    background: #fff;
+    padding: 50px 0px 50px 0px;
+    float:left;
+}
+.card{
+    -webkit-box-shadow: 4px 11px 14px -3px rgba(0,0,0,0.34);
+-moz-box-shadow: 4px 11px 14px -3px rgba(0,0,0,0.34);
+box-shadow: 4px 11px 14px -3px rgba(0,0,0,0.34);
+border:none;
+text-align: center;
+}
+
+.card-header{
+    background: #fff;
+}
+
+.imgclass{
+    padding-top: 5%;
+}
+
+.img2{
+
+    width:100%;
+    padding: 20px;
+    
+}
+
+.footer-image{
+
+width: 100%;
+float: left;
+margin-top: 50px;
+margin-bottom: 50px;
+box-shadow: 10px 10px 5px lightblue;
+}
+
+.footer-image img{
+
+    width: 100%;
+    float: left;
+
+    
+    
+}
+
+/* bootstrap navigation section */
+
+.nav-background{
+
+    background-color:#6caaa7;
+}
+
+hr{
+
+
+     border-style: none;
+     border-top-style:dotted;
+     border-color: grey;
+     border-width:5px;
+     width:5%;
+     margin-top: 70px;
+}
+ .listnav{
+
+    float: right !important;
+    width: 50%;
+ }
